@@ -83,10 +83,3 @@ This course provides a practical introduction to Python programming tailored for
   - Writing clean, modular Python code in Spyder IDE
 
 ---
-
-## How to Run
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/python-manufacturing-course.git
-   cd python-manufacturing-course
